@@ -1,9 +1,9 @@
-# saper
-Projekt zaliczeniowy z kck
-Współautorzy<br />
+# sapper
+Course work from human computer communication
+Co-autors<br />
 Igor Misiorny<br />
 Bartosz Szukała<br />
 Gracjan Walch <br />
 Rafał Żebrowski <br />
 
-Saper rozumie polecenia wydawane w języku naturalnym i stosuje się do nich (jedź w górę, jedź na zachód, weź bombę, rozbrój bombę itp)
+Sapper understands and executes commands in polish language (for example: jedź w górę, jedź na zachód, weź bombę, rozbrój bombę )
