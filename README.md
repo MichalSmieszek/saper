@@ -1,5 +1,5 @@
 # sapper
-Coursework from human computer communication
+Coursework from human computer communication. <br />
 Co-autors<br />
 Igor Misiorny<br />
 Bartosz Szukała<br />
