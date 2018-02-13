@@ -1,6 +1,6 @@
 # sapper
 Coursework from human computer communication. <br />
-Co-autors<br />
+Co-autors:<br />
 Igor Misiorny<br />
 Bartosz Szukała<br />
 Gracjan Walch <br />
